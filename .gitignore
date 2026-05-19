@@ -12,3 +12,5 @@ alo
 # bo qua file abc.txt trong second_folder
 # ubuntu su dung / la path separator, windows su dung \ hoac // la path separator
 second_folder/abc.txt
+
+second_folder\myfile.txt
