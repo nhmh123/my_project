@@ -4,3 +4,8 @@ alo
 
 # bỏ qua tat ca file .log
 *.log
+
+# bo qua file abc.xyz nhung van giu myfile.xyz
+# se chi bo qua cac file .xyz trong git repo
+/*.xyz
+
