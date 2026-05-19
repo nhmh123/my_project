@@ -9,3 +9,6 @@ alo
 # se chi bo qua cac file .xyz trong git repo
 /*.xyz
 
+# bo qua file abc.txt trong second_folder
+# ubuntu su dung / la path separator, windows su dung \ hoac // la path separator
+second_folder/abc.txt
