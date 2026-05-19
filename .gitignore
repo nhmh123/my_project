@@ -1,0 +1,6 @@
+# comment
+# alo /alo => git khong theo doi thu muc alo
+alo
+
+# bỏ qua tat ca file .log
+*.log
